@@ -1,0 +1,23 @@
+Figure 1. Stations and epicenters (a). Magnitude and distance of the records (b).
+Figure 2. Residuals relative to BSSA14 versus Joyner-Boore distance.
+Figure 3. Residuals relative to BSSA14 versus moment magnitude.
+Figure 4. Residuals relative to the model versus Joyner-Boore distance.
+Figure 5. Residuals relative to the model versus moment magnitude.
+Figure 6. Within-event residuals versus Joyner-Boore distance.
+Figure 7. Between-event residuals versus moment magnitude.
+Figure 8. Coefficients (a-c), standard deviations (d), and numbers of records and events (e) versus period.
+Figure 9. Predicted spectra at the ACC and BB levels and from BSSA14 at 20 km (a) and 100 km (b).
+Figure 10. Histograms of the station-mean broadband-to-accelerometer ratios.
+Figure 11. Conversion factor versus period.
+Figure 12. Observed ratios and 1D transfer functions at GKP2, CHRB, CIGB, and EURB.
+Figure 13. Observed motions and model predictions versus Joyner-Boore distance.
+Figure 14. PGA residuals (a-c) and predictions (d-f) of this model and previous models for MW 3.25, 4.25, and 5.25.
+Figure 15. SA residuals (a-d) and predictions (e-h) for the 2019 Sangju earthquake.
+Figure 16. SA residuals (a-d) and predictions (e-h) for the 2016 Gyeongju earthquake.
+Figure 17. Residuals of the model and of the stochastic models versus Joyner-Boore distance.
+Figure 18. Residuals of the model and of the stochastic models versus moment magnitude.
+Figure S1. Bedrock depths and accelerometer depths (a). VS at the sensor depths (b).
+Figure S2. High-pass corner frequencies (a), usable records versus period (b), and numbers of records and events (c).
+Figure S3. Conversion factor at each screening stage.
+Figure S4. Observed (a-d) and synthetic (e-h) ratios of individual records at GKP2, CHRB, CIGB, and EURB.
+Figure S5. Station terms versus accelerometer depth (a-d), VS30 (e-h), and VS at the sensor depth (i-l).
