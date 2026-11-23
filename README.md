@@ -1,7 +1,7 @@
 # Data and code
 
-K. Jo, H. Yoo, Y. Jeon, D. Park, S. Choi, and S. Kim, "Borehole-Based Referenced Empirical Ground-Motion Model for the
-Southern Korean Peninsula and the Depth Dependence of Within-Rock Motions".
+K. Jo, H. J. Yoo, Y. Jeon, D. Park, S. Choi, and S. Kim, "Borehole-Based Referenced Empirical Ground-Motion Model for
+the Southern Korean Peninsula and the Depth Dependence of Within-Rock Motions".
 Abbreviations are those of the article.
 
 ## Folders
